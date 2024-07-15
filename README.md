@@ -27,7 +27,7 @@ This project focuses on using machine learning algorithms to detect fraud in fin
     •	Logistic Regression 📈: Accuracy - 98%
     
     •	KNN 📏: Accuracy - 98%
-     
+   ![Screenshot 2024-07-13 143847](https://github.com/user-attachments/assets/e6ad65a8-53f7-4df8-b934-866f51a40367)
       
 # Additional Notes 📝
     
