@@ -1,4 +1,4 @@
-# Fraud Detection Project 🕵️♂️
+# Fraud Detection Project 🕵️
 This project focuses on using machine learning algorithms to detect fraud in financial transactions.
 # Overview  📋
  The repository contains code for training and evaluating different models to detect fraudulent activities in transaction data. It aims to provide accurate fraud detection capabilities using supervised learning techniques.
